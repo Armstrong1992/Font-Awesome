@@ -21,7 +21,7 @@
     url('#{$fa-font-path}/fa-solid-900.ttf') format('truetype');
 }
 
-.fas,
+.#{$fa-css-prefix}-fas,
 .#{$fa-css-prefix}-solid {
   font-weight: 900;
 }
